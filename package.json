@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toucanthiddle/toucanthiddle.git"
+    "url": "git+https://github.com/toucanthiddle/toolbox.git"
   },
   "author": "victorgeere@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toucanthiddle/toucanthiddle/issues"
+    "url": "https://github.com/toucanthiddle/toolbox/issues"
   },
-  "homepage": "https://github.com/toucanthiddle/toucanthiddle#readme"
+  "homepage": "https://github.com/toucanthiddle/toolbox#readme"
 }
