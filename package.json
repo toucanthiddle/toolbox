@@ -1,0 +1,19 @@
+{
+  "name": "@toucanthiddle/toolbox",
+  "version": "1.0.0",
+  "description": "toolbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toucanthiddle/toucanthiddle.git"
+  },
+  "author": "victorgeere@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toucanthiddle/toucanthiddle/issues"
+  },
+  "homepage": "https://github.com/toucanthiddle/toucanthiddle#readme"
+}
