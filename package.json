@@ -1,6 +1,6 @@
 {
   "name": "@toucanthiddle/toolbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "toolbox",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,10 @@
   "homepage": "https://github.com/toucanthiddle/toolbox#readme",
   "devDependencies": {
     "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "mathjs": "^10.0.0",
+    "three": "^0.134.0"
   }
 }
